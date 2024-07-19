@@ -1,0 +1,9 @@
+{
+	"name": "ethereum-reference",
+	"description": "A comprehensive collection of contracts, projects, and tests related to Ethereum blockchain development.",
+	"version": "1.1.0",
+	"main": "dist/index.js",
+	"repository": "https://github.com/pau1tuck/ethereum-reference.git",
+	"author": "Paul Tuck <p6ul.tuck@gmail.com>",
+	"license": "MIT"
+}

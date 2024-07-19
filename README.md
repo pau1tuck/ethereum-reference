@@ -1,6 +1,6 @@
 # Ethereum Reference
 
-This project showcases a comprehensive collection of contracts, projects, and tests related to Ethereum blockchain development.
+This project showcases a comprehensive collection of contracts, projects, and tests related to Ethereum and Solidity blockchain development.
 
 ## Contents
 
@@ -11,7 +11,7 @@ This project showcases a comprehensive collection of contracts, projects, and te
   - Deployment scripts
   - Interaction scripts
 - **Tests**
-  - Comprehensive test cases for all contracts
+  - Hardhat test cases for all contracts
 
 ## Getting Started
 
