@@ -16,14 +16,15 @@
 			"quoteStyle": "double",
 			"jsxQuoteStyle": "double",
 			"semicolons": "always"
-		}
+		},
+		"globals": ["$", "_", "describe", "it", "beforeEach", "afterEach"]
 	},
 	"linter": {
 		"enabled": true,
 		"rules": {
 			"all": true,
 			"correctness": {
-				"noUndeclaredVariables": "off",
+				"noUndeclaredVariables": "warn",
 				"noUnusedVariables": "warn"
 			},
 			"style": {
