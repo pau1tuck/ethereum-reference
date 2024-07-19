@@ -5,5 +5,11 @@
 	"main": "dist/index.js",
 	"repository": "https://github.com/pau1tuck/ethereum-reference.git",
 	"author": "Paul Tuck <p6ul.tuck@gmail.com>",
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies": {
+		"@biomejs/monorepo": "biomejs/biome",
+		"@types/node": "^20.14.11",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.5.3"
+	}
 }
