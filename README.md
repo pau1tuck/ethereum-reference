@@ -5,6 +5,7 @@ This project showcases a comprehensive collection of contracts, projects, and te
 ## Contents
 
 - **Contracts**
+  - Basic Authorization Control
   - ERC20 Token
   - ERC721 NFT
 - **Scripts**
