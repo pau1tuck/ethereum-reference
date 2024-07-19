@@ -5,7 +5,7 @@ This project showcases a comprehensive collection of contracts, projects, and te
 ## Contents
 
 - **Contracts**
-  - Basic Authorization Control
+  - Basic Authorization Control (Ownable)
   - ERC20 Token
   - ERC721 NFT
 - **Scripts**

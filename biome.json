@@ -23,6 +23,7 @@
 		"rules": {
 			"all": true,
 			"correctness": {
+				"noUndeclaredVariables": "off",
 				"noUnusedVariables": "warn"
 			},
 			"style": {

@@ -11,8 +11,8 @@ contract BasicAuthControl is Ownable {
         uint price;
         address owner;
     }
-    // Create an array to store all items using array index as identifier.
-    Item[] private items; // A state variable persists across transactions on the blockchain.
+    // Create an array to store each item using array index as identifier.
+    Item[] private items; // This state variable persists across transactions on the blockchain.
     // Map the owner of each item to the store by item ID.
     mapping(uint => address) private itemToOwner;
 

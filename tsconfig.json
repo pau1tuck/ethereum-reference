@@ -9,6 +9,6 @@
     "skipLibCheck": true,
     "resolveJsonModule": true
   },
-  "include": ["*./contracts", "*./scripts", "*./spec", "hardhat.config.ts"],
+  "include": ["./contracts/**/*.ts", "hardhat.config.ts"],
   "exclude": ["node_modules"]
 }
