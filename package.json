@@ -17,7 +17,6 @@
 		"@nomiclabs/hardhat-ethers": "^2.2.3",
 		"@nomiclabs/hardhat-etherscan": "^3.1.8",
 		"@nomiclabs/hardhat-waffle": "^2.0.6",
-		"@openzeppelin/contracts": "^5.0.2",
 		"@typechain/ethers-v5": "^11.1.2",
 		"@typechain/hardhat": "^9.1.0",
 		"@types/chai": "^4.2.0",
@@ -33,5 +32,8 @@
 		"typechain": "^8.3.2",
 		"typescript": "~5.0.4",
 		"viem": "^2.17.5"
+	},
+	"dependencies": {
+		"@openzeppelin/contracts": "^5.0.2"
 	}
 }

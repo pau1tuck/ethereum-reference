@@ -5,7 +5,7 @@ pragma solidity ^0.8.0;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-// Define the ERC20Token contract, inheriting functionality from ERC20 and Ownable
+// Define the ERC20Token contract and inherit functionality from OpenZeppelin ERC20 and Ownable
 contract ERC20Token is ERC20, Ownable {
     // Constructor function to initialize the token with an initial supply
     constructor(uint256 initialSupply) ERC20("ERC20Token", "ERC") {

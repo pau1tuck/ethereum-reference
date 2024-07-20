@@ -1,6 +1,6 @@
 # Ethereum Reference Library
 
-This project showcases a comprehensive collection of contracts, projects, and tests related to Ethereum and Solidity blockchain development.
+This project showcases a comprehensive collection of contracts, projects, tests, and best practices related to Ethereum blockchain development.
 
 ## Contents
 
