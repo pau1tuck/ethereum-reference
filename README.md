@@ -8,6 +8,7 @@ This project showcases a comprehensive collection of contracts, projects, tests,
   - Basic Authorization Control (Ownable)
   - ERC20 Token
   - ERC721 NFT
+  - Crowdsale
 - **Scripts**
   - Deployment scripts
   - Interaction scripts
